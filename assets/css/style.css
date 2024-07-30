@@ -1,0 +1,84 @@
+.carousel-item img {
+  object-fit: cover;
+  height: 500px;
+}
+
+.featurette-image {
+  border-radius: 0.5rem;
+}
+
+.navbar {
+  margin-bottom: 1rem;
+  padding: 1rem 0;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+}
+
+.navbar.fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030; 
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.container-marketing {
+  margin-top: 2rem;
+}
+
+.featurette-divider {
+  margin: 2rem 0; 
+}
+
+.featurette {
+  align-items: center;
+}
+
+.featurette-heading {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 767.98px) {
+  .featurette-image {
+    margin-bottom: 1rem;
+  }
+}
+
+.logo01 {
+  color: #ff6347; 
+  font-weight: bold; 
+  font-size: 60px; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  background-color: rgba(255, 255, 255, 0.7); 
+  padding: 10px; 
+  display: inline-block; 
+}
+
+.textEmLogo01 {
+  font-weight: bold;
+  font-size: 25px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+.hidden {
+  display: none;
+}
+
+#search-form .btn {
+  margin-left: 10px; 
+}
+
+#area-de-blog {
+  padding-top: 20px; 
+}
+
+html {
+  scroll-padding-top: 50px; 
+}
