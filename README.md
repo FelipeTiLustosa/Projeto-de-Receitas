@@ -2,7 +2,7 @@
 
 Um site de receitas interativo que permite aos usuários pesquisar e explorar diversas receitas de maneira organizada e visualmente atraente.
 
-__Você pode ver esse projeto bem [Aqui](https://www.seuSite.com.br)__
+__Você pode ver esse projeto bem [Aqui](https://felipetilustosa.github.io/Projeto-de-Receitas/)__
 
  🖥️ Versão web                                                   
 :----------:                                                     
