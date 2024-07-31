@@ -1,4 +1,4 @@
-# 💡 Projeto de Receitas
+# 💡 Projeto para site de  Receitas
 
 Um site de receitas interativo que permite aos usuários pesquisar e explorar diversas receitas de maneira organizada e visualmente atraente.
 
