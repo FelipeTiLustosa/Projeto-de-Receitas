@@ -1,80 +1,80 @@
 const receitas = [
     {
         id: 'hamburguer',
-        img: 'imgs/receitas/Hambúrguer500X500.png',
+        img: 'assets/html/imgs/receitas/Hambúrguer500X500.png',
         title: 'Hambúrguer',
         description: 'Aprenda a fazer um hambúrguer suculento e cheio de sabor, perfeito para um almoço ou jantar irresistível!',
-        link: '../html/receitas/Hamburguer.html'
+        link: 'assets/html/receitas/Hamburguer.html'
     },
     {
         id: 'prato-comercial',
-        img: 'imgs/receitas/pf8.avif',
+        img: 'assets/html/imgs/receitas/pf8.avif',
         title: 'Prato Comercial',
         description: 'Confira como preparar um prato comercial delicioso e nutritivo, ideal para qualquer refeição do dia!',
-        link: '../html/receitas/pratocomercial.html'
+        link: 'assets/html/receitas/pratocomercial.html'
     },
     {
         id: 'pizza',
-        img: 'imgs/receitas/pizza500X500.png',
+        img: 'assets/html/imgs/receitas/pizza500X500.png',
         title: 'Pizza',
         description: 'Descubra a receita da pizza perfeita, com uma massa crocante e cobertura deliciosa que vai conquistar seu paladar!',
-        link: '../html/receitas/pizza.html'
+        link: 'assets/html/receitas/pizza.html'
     },
     {
         id: 'salada-fresh',
-        img: 'imgs/receitas/Salada Fresh500X500.jpg',
+        img: 'assets/html/imgs/receitas/Salada Fresh500X500.jpg',
         title: 'Salada Fresh',
         description: 'Experimente uma salada fresca e nutritiva, perfeita para acompanhar suas refeições ou como um prato leve e saudável.',
-        link: '../html/receitas/saladafresh.html'
+        link: 'assets/html/receitas/saladafresh.html'
     },
     {
         id: 'massa-italiana',
-        img: 'imgs/receitas/Massa Italiana500X500.jpg',
+        img: 'assets/html/imgs/receitas/Massa Italiana500X500.jpg',
         title: 'Massa Italiana',
         description: 'Descubra a receita de uma deliciosa massa italiana, com molho caseiro e ingredientes frescos que trazem o verdadeiro sabor da Itália.',
-        link: '../html/receitas/massaItaliana.html'
+        link: 'assets/html/receitas/massaItaliana.html'
     },
     {
         id: 'sopa-quente',
-        img: 'imgs/receitas/Sopa Quente500X500.avif',
+        img: 'assets/html/imgs/receitas/Sopa Quente500X500.avif',
         title: 'Sopa Quente',
         description: 'Aprenda a fazer uma sopa quente e reconfortante, perfeita para aquecer os dias frios com muito sabor e nutrientes.',
-        link: '../html/receitas/sopaQuente.html'
+        link: 'assets/html/receitas/sopaQuente.html'
     },
     {
         id: 'cheeseburger',
-        img: 'imgs/receitas/cheeseburger500X500.avif',
+        img: 'assets/html/imgs/receitas/cheeseburger500X500.avif',
         title: 'Cheeseburger',
         description: 'Prepare um cheeseburger irresistível, com queijo derretido e carne suculenta, ideal para um almoço ou jantar delicioso.',
-        link: '../html/receitas/cheeseburger.html'
+        link: 'assets/html/receitas/cheeseburger.html'
     },
     {
         id: 'sobremesa',
-        img: 'imgs/receitas/sobremesas500X500.avif',
+        img: 'assets/html/imgs/receitas/sobremesas500X500.avif',
         title: 'Sobremesa',
         description: 'Delicie-se com uma sobremesa doce e saborosa, perfeita para encerrar suas refeições com um toque especial.',
-        link: '../html/receitas/sobreMesa.html'
+        link: 'assets/html/receitas/sobreMesa.html'
     },
     {
         id: 'smoothie',
-        img: 'imgs/receitas/Smoothie500X500.avif',
+        img: 'assets/html/imgs/receitas/Smoothie500X500.avif',
         title: 'Smoothie',
         description: 'Prepare um smoothie refrescante e saudável, ideal para começar o dia ou como um lanche nutritivo.',
-        link: '../html/receitas/smoothie.html'
+        link: 'assets/html/receitas/smoothie.html'
     },
     {
         id: 'bife-grelhado',
-        img: 'imgs/receitas/Bife Grelhado500X500.avif',
+        img: 'assets/html/imgs/receitas/Bife Grelhado500X500.avif',
         title: 'Bife Grelhado',
         description: 'Descubra como fazer um bife grelhado perfeito, com temperos e técnicas para uma carne macia e saborosa.',
-        link: '../html/receitas/bifeGrelhado.html'
+        link: 'assets/html/receitas/bifeGrelhado.html'
     },
     {
         id: 'sushi',
-        img: 'imgs/receitas/Sushi500X500.avif',
+        img: 'assets/html/imgs/receitas/Sushi500X500.avif',
         title: 'Sushi',
         description: 'Aprenda a fazer sushi em casa, com ingredientes frescos e técnicas simples para criar sushi delicioso e autêntico.',
-        link: '../html/receitas/Sushi.html'
+        link: 'assets/html/receitas/Sushi.html'
     }
 ];
 
