@@ -31,7 +31,7 @@ __Você pode ver esse projeto bem [Aqui](https://felipetilustosa.github.io/Proje
 1. Clone o repositório
 2. Abra o terminal e navegue até o diretório do projeto
 3. Instale as dependências necessárias
-4. Abra o arquivo `index.html` em um navegador que esta na pasta html
+4. Abra o arquivo `index.html` em um navegador 
 5. ```
    git clone https://github.com/seuUsuario/seuRepositorio.git
    cd seuRepositorio
