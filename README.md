@@ -7,8 +7,8 @@ __Você pode ver esse projeto bem [Aqui](https://www.seuSite.com.br)__
  🖥️ Versão web                                                   
 :----------:                                                     
 <img src="assets/html/imgs/imgsDoProjeto/img01.png"/>   
-<img src="../public/assets/screenshot-mobile.jpg" width="100%"/>
-<img src="../public/assets/screenshot-mobile.jpg" width="100%"/>
+<img src="assets/html/imgs/imgsDoProjeto/img02.png"/>
+<img src="assets/html/imgs/imgsDoProjeto/img03.png"/>
 
 ## ⚙️ Funcionalidades
 
